@@ -1,0 +1,22 @@
+{
+  "name": "roman_numerals_tech_challenge",
+  "version": "1.0.0",
+  "description": "RomanNumeralGenerator: Design a program that takes a number and converts it into Roman Numerals.",
+  "main": "Roman_Numerals_Tech_Challenge.js",
+  "scripts": {
+    "test": "mocha specs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Conalter/Roman_Numerals_Tech_Challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Conalter/Roman_Numerals_Tech_Challenge/issues"
+  },
+  "homepage": "https://github.com/Conalter/Roman_Numerals_Tech_Challenge#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}

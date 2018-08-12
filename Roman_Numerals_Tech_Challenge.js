@@ -53,4 +53,4 @@ var NumGenerator = function(num){
   console.log(result);
 }
 // Number to be converted
-NumGenerator(899090);
+NumGenerator(1987);
